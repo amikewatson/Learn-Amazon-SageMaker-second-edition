@@ -1,0 +1,6 @@
+awscli
+boto3
+sagemaker
+ipykernel
+pandas
+jupyter
